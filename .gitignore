@@ -12,3 +12,5 @@ app.pid
 .DS_Store
 .vscode/
 .idea/
+
+.env
